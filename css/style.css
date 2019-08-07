@@ -669,19 +669,37 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: none;
 }
 .progress-bar.progress-bar-1 {
-  background-color: #2980b9 !important;
+  background-color: #e44d26 !important;
 }
 .progress-bar.progress-bar-2 {
-  background-color: #c0392b !important;
+  background-color: #f7df1e !important;
 }
 .progress-bar.progress-bar-3 {
-  background-color: #d35400 !important;
+  background-color: #3a77ce !important;
 }
 .progress-bar.progress-bar-4 {
   background-color: #8e44ad !important;
 }
 .progress-bar.progress-bar-5 {
-  background-color: #27ae60 !important;
+  background-color: #5a005a !important;
+}
+.progress-bar.progress-bar-6 {
+  background-color: #b52e31 !important;
+}
+.progress-bar.progress-bar-7 {
+  background-color: #4a8bfc !important;
+}
+.progress-bar.progress-bar-8 {
+  background-color: #2a2a2a !important;
+}
+.progress-bar.progress-bar-9 {
+  background-color: #78c257 !important;
+}
+.progress-bar.progress-bar-10 {
+  background-color: #007bff !important;
+}
+.progress-bar.progress-bar-11 {
+  background-color: #d24939 !important;
 }
 
 .chart {
